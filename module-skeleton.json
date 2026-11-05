@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-multi-tender-payments-react-native",
+  "capabilityKey": "planned:ecommerce:multi-tender-payments",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-ecommerce-multi-tender-payments-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/ecommerce/nextjs/multi-tender-payments.md",
+  "presentationPlan": "projects/ecommerce/react-native/multi-tender-payments.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
